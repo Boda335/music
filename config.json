@@ -1,0 +1,42 @@
+{
+    "prefix": ".",
+    "token": "",
+    "clientID": "",
+    "youtubeCookie": "",
+    "emoji": {
+        "artist": "<:Musicartist:1317246756362129408>",
+        "autoplay": "<:Musicautoplay:1317246757926863000>",
+        "back": "<:Musicback:1317246759155531887>",
+        "skip": "<:Musicskip:1317246946511159367>",
+        "forward": "<:Musicfastforword:1317246760820936724>",
+        "rewind": "<:Musicrewind:1317246943742791730>",
+        "favorite": "<:Musicfav:1317246762162847824>",
+        "filter": "<:Musicfillter:1317246895256502334>",
+        "lyrics": "<:Musiclyrcs:1317246896426844191>",
+        "play": "<:Musicplay:1317246898226335874>",
+        "pause": "<:Musicpusse:1317246899605995520>",
+        "repeat": "<:Musicrepeat:1317246901912998049>",
+        "shuffle": "<:Musicshullf:1317246945076580363>",
+        "stop": "<:Musicstop:1317246948235018290>",
+        "volumedown": "<:Musicvoldown:1317246949908418682>",
+        "volumeup": "<:Musicvolup:1317246951149797468>",
+        "musicTrack":"<:Musictraack:1317477486820462712>",
+        "songrepet":"<:Musicsongrepeat:1318555804755951656>",
+        "queuerepet":"<:Musicqueuerepet:1318555801056579584>",
+        "maintenance":"<:Musicmaintenance:1318532282742476883>",
+        "search":"<:Musicsearch:1318555802956595230>",
+        "arrow":"<:Musicarrow:1318575036566736946>",
+        "leftarrow":"<:leftarrow:1318661721925226550>",
+        "rightarrow":"<:rightarrow:1318661724404056184>"
+    },
+    "PannelIMG":"https://a.top4top.io/p_3273g8xvu1.png",
+    "mainIMG":"https://e.top4top.io/p_3273w9r181.png",
+    "MainEmbedColor":"#c26400",
+    "SecondaryEmbedColor":"#f2a900",
+    "TertiaryEmbedColor":"#8c4500",
+    "spotify_api": {
+        "enabled": true,
+        "clientId": "f1d57cf26a1142f5ab8d6ac5bb1aa7cf",
+        "clientSecret": "0eab5e57787f4915a2ec848b7f365a77"
+    }
+}
